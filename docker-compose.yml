@@ -1,5 +1,3 @@
-version: "3.9"
-
 # ZapShield — docker-compose.yml
 # Start all services: docker-compose up -d
 # Rebuild ML service after model changes: docker-compose build ml-service && docker-compose up -d ml-service

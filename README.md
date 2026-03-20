@@ -1105,8 +1105,8 @@ ZapShield is an InsurTech distribution platform, not a risk-bearing entity. Unde
 
 | Name | Roll Number | Role |
 |---|---|---|
-| Mugilan Y | 23N229 | Frontend — React PWA, rider dashboard, onboarding UI |
-| Sivaselvan S | 23N252 | ML/AI — Zone risk GBR model, Isolation Forest fraud detection |
+| Mugilan Y | 23N229 | ML/AI — Zone risk GBR model, Isolation Forest fraud detection |
+| Sivaselvan S | 23N252 | Frontend — React PWA, rider dashboard, onboarding UI |
 | Sundaresan B | 23N255 | Backend — Node.js API, trigger engine, fraud service |
 
 ---
